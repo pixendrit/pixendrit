@@ -39,21 +39,21 @@ path: "/about"
 
     Framework: Gatsbyjs;
  
-    Design: Adobe Photoshop
+    Design: Adobe Photoshop;
     
-    Design: Adobe Illustrator
+    Design: Adobe Illustrator;
 
-    Design: CorelDraw
+    Design: CorelDraw;
 
-    Design: Figma
+    Design: Figma;
 
-    Game Design: Aseprite
+    Game Design: Aseprite;
 
     }
     .contact {
-        Email: pixendrit@outlook.com
-        Phone: +38345613794
-        Twitter: @pixendrit
-        Instagram: @pixendrit
+        Email: pixendrit@outlook.com;
+        Phone: +38345613794;
+        Twitter: @pixendrit;
+        Instagram: @pixendrit;
     }
     ```
