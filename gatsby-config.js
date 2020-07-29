@@ -7,15 +7,15 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Designer | Pixendrit`,
+    description: `Personal portofolio`,
     copyrights: '',
-    author: `@panr`,
+    author: `@pixendrit`,
     logo: {
-      src: '',
-      alt: '',
+      src: '' ,
+      alt: '' ,
     },
-    logoText: 'hello friend',
+    logoText: 'pixendrit',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
@@ -30,7 +30,7 @@ module.exports = {
         path: '/showcase',
       },
       {
-        title: 'Example',
+        title: 'Recent work',
         path: '/example',
       },
     ],
